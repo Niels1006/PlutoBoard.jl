@@ -1,1 +1,1 @@
-{"list":[]}
+{"list":[{"title":"error","link":"<a href=\"global.html#error\">error</a>","description":"Logs an error message to the console with the PlutoBoard.jl prefix"},{"title":"info","link":"<a href=\"global.html#info\">info</a>","description":"Logs an informational message to the console with the PlutoBoard.jl prefix"},{"title":"warn","link":"<a href=\"global.html#warn\">warn</a>","description":"Logs a warning message to the console with the PlutoBoard.jl prefix"}]}
